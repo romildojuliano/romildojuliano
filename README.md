@@ -19,9 +19,6 @@ Here are some ideas to get you started:
 
 ![GitHub followers](https://img.shields.io/github/followers/romildojuliano?style=social)    ![GitHub User's stars](https://img.shields.io/github/stars/romildojuliano?style=social)
 
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
-
-
 <h3>Things I code with</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
