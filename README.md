@@ -14,4 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![](https://komarev.com/ghpvc/?username=romildojuliano&color=blue)
+
 ![GitHub followers](https://img.shields.io/github/followers/romildojuliano?style=social)    ![GitHub User's stars](https://img.shields.io/github/stars/romildojuliano?style=social)
