@@ -19,8 +19,6 @@ Here are some ideas to get you started:
 
 ![GitHub followers](https://img.shields.io/github/followers/romildojuliano?style=social)    ![GitHub User's stars](https://img.shields.io/github/stars/romildojuliano?style=social)
 
-😄 Pronouns: He;Him
-
 <h3>Things I am working with</h3>
 <p>
    <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> 
