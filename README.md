@@ -1,9 +1,17 @@
 ![](https://komarev.com/ghpvc/?username=romildojuliano&color=blue)
 
-My name is Romildo Juliano. I am 2ys+ on demand tutor and software consultor with experience on various languages and topics. Some of my main jobs include:
-- Fixed a market application developed with R, Shiny, HighCharts and some other graphical tools
+Hello, my name is Romildo Juliano, I am a 2ys+ on demand tutor and software consultor with experience on various languages and topics.  
+Some of my remarkable jobs include: 
+- Fixed a market application developed with R, Shiny, HighCharts and some other graphical tools 
 
+
+![](https://github.com/romildojuliano/romildojuliano/blob/main/portfolio/shiny-1.png)
+![](https://github.com/romildojuliano/romildojuliano/blob/main/portfolio/shiny-2.png)
 - Built a system for a friend of mine
+
+- Solved a very tricky CSP problem for a client:
+
+
 - Developed an implementation for a PHD. client that uses AmplPy and AMPL with Gurobi for optimization. Article: 
 - 
 
