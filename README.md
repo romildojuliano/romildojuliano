@@ -1,15 +1,18 @@
 ![](https://komarev.com/ghpvc/?username=romildojuliano&color=blue)
 
 Hello, my name is Romildo Juliano, I am a 2ys+ on demand tutor and software consultor with experience on various languages and topics.  
-Some of my remarkable jobs include: 
+Most of my notorious jobs include: 
 - Fixed a market application developed with R, Shiny, HighCharts and some other graphical tools 
-
 
 ![](https://github.com/romildojuliano/romildojuliano/blob/main/portfolio/shiny-1.png)
 ![](https://github.com/romildojuliano/romildojuliano/blob/main/portfolio/shiny-2.png)
-- Built a system for a friend of mine
+- Building a system for a friend of mine using Streamlit (STILL IN PROGRESS )
+![image](https://user-images.githubusercontent.com/33132257/214430277-dbdf8811-c936-4885-bb8b-f8ee3386ee69.png)
 
-- Solved a very tricky CSP problem for a client:
+- Solved a very tricky CSP problem for a client using PyCSP3 in an 4hs delivery time having never used the module before:
+
+![image](https://user-images.githubusercontent.com/33132257/214429607-7c368107-eb54-4831-973f-214d9b72100a.png)
+![image](https://user-images.githubusercontent.com/33132257/214429829-9d1d44ce-a5a6-4777-9dd5-ba26836153f2.png)
 
 
 - Developed an implementation for a PHD. client that uses AmplPy and AMPL with Gurobi for optimization. Article: 
