@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 
 ![GitHub followers](https://img.shields.io/github/followers/romildojuliano?style=social)    ![GitHub User's stars](https://img.shields.io/github/stars/romildojuliano?style=social) 
 
-<h2>Proficient on:</h3>
+<h2>Proficient on:</h2>
 
-![React Native](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=flat)
+
    <!--
    <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> 
    <img alt="Git" src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white"/> 
@@ -34,6 +34,7 @@ Here are some ideas to get you started:
    <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
    -->
 
-<h2> Worked with:
+<h2> Worked with: </h2>
+![React Native](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=flat)
    
-<h2> Learning:
+<h2> Learning: </h2>
