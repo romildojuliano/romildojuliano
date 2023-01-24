@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ![GitHub followers](https://img.shields.io/github/followers/romildojuliano?style=social)    ![GitHub User's stars](https://img.shields.io/github/stars/romildojuliano?style=social) 
 
-<h2>Things I am working with</h3>
+<h2>Proficient on:</h3>
 
 ![React Native](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=flat)
    <!--
@@ -34,6 +34,6 @@ Here are some ideas to get you started:
    <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
    -->
 
-<h2> Things I have worked with
+<h2> Worked with:
    
-<h2> Things I am been learning
+<h2> Learning:
