@@ -40,7 +40,17 @@
 
 
 Hello, my name is Romildo Juliano, I am a 2ys+ on demand tutor and software consultor with experience on various languages and topics.  
-Some jobs I documented are: 
+Some recent jobs I documented are: 
+
+- Developed some implementations from papers for a master's degree client using AmplPy and AMPL with Gurobi for optimization.  
+Article: https://repositorio.ufsc.br/handle/123456789/89496
+
+![image](https://user-images.githubusercontent.com/33132257/214433369-09a6c19a-7702-4fd5-8cbd-2f69f3e38e25.png)
+
+Article: https://www.researchgate.net/publication/355574568_Modelo_para_sequenciamento_de_tarefas_em_maquinas_paralelas_heterogeneas_de_injecao_plastica_com_prazo_de_entrega
+
+![image](https://user-images.githubusercontent.com/33132257/214433711-5e276327-7439-456e-879a-264470dd794d.png)
+
 - Fixed a market application developed with R, Shiny, HighCharts and some other graphical tools 
 
 ![](https://github.com/romildojuliano/romildojuliano/blob/main/portfolio/shiny-1.png)
@@ -53,12 +63,3 @@ Some jobs I documented are:
 ![image](https://user-images.githubusercontent.com/33132257/214429607-7c368107-eb54-4831-973f-214d9b72100a.png)
 ![image](https://user-images.githubusercontent.com/33132257/214429829-9d1d44ce-a5a6-4777-9dd5-ba26836153f2.png)
 
-
-- Developed some implementations from papers for a master's degree client using AmplPy and AMPL with Gurobi for optimization.  
-Article: https://repositorio.ufsc.br/handle/123456789/89496
-
-![image](https://user-images.githubusercontent.com/33132257/214433369-09a6c19a-7702-4fd5-8cbd-2f69f3e38e25.png)
-
-Article: https://www.researchgate.net/publication/355574568_Modelo_para_sequenciamento_de_tarefas_em_maquinas_paralelas_heterogeneas_de_injecao_plastica_com_prazo_de_entrega
-
-![image](https://user-images.githubusercontent.com/33132257/214433711-5e276327-7439-456e-879a-264470dd794d.png)
