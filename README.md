@@ -24,7 +24,11 @@ Here are some ideas to get you started:
 ![C++](https://img.shields.io/badge/C++-blue.svg?style=flat&logo=c%2B%2B)
 ![Selenium](https://img.shields.io/badge/Selenium-white?style=flat&logo=selenium)
 ![Python](https://img.shields.io/badge/-Python-yellow?logo=python&style=flat)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&style=flat)
+![Numpy](https://img.shields.io/badge/-Numpy-013243?logo=numpy&style=flat)
+![Sympy](https://img.shields.io/badge/-Sympy-3B5526?logo=sympy&style=flat)
 ![Java](https://img.shields.io/badge/Java-blue?logo=java&style=flat)
+
    <!--
    <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> 
    <img alt="Git" src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white"/> 
@@ -42,6 +46,7 @@ Here are some ideas to get you started:
 ![Jinja](https://img.shields.io/badge/Jinja-B41717?style=flat&logo=jinja)
 ![Cucumber](https://img.shields.io/badge/Cucumber-white?style=flat&logo=cucumber)
 ![Haskell](https://img.shields.io/badge/-Haskell-5D4F85?logo=haskell&style=flat)
+![Postman](https://img.shields.io/badge/-Postman-FF6c37?logo=postman&style=flat)
    
 #### Learning:
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django)
