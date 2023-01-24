@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 
 ![](https://komarev.com/ghpvc/?username=romildojuliano&color=blue)
 
-![GitHub followers](https://img.shields.io/github/followers/romildojuliano?style=social)    ![GitHub User's stars](https://img.shields.io/github/stars/romildojuliano?style=social)
+![GitHub followers](https://img.shields.io/github/followers/romildojuliano?style=social)    ![GitHub User's stars](https://img.shields.io/github/stars/romildojuliano?style=social) ![React Native](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=flat)
 
 <h3>Things I am working with</h3>
-![React Native](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=flat)
+
    <!--
    <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> 
    <img alt="Git" src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white"/> 
