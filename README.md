@@ -35,6 +35,7 @@ Here are some ideas to get you started:
    -->
 
 <h2> Worked with: </h2>
+
 ![React Native](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=flat)
    
 <h2> Learning: </h2>
