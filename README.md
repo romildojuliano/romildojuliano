@@ -1,5 +1,3 @@
-### Romildo Juliano
-
 <!--
 **romildojuliano/romildojuliano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -19,9 +17,14 @@ Here are some ideas to get you started:
 
 ![GitHub followers](https://img.shields.io/github/followers/romildojuliano?style=social)    ![GitHub User's stars](https://img.shields.io/github/stars/romildojuliano?style=social) 
 
-<h2>Proficient on:</h2>
+#### Proficient on:
 
-
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&style=flat)
+![C](https://img.shields.io/badge/-C-black?logo=C&style=flat)
+![C++](https://img.shields.io/badge/C++-blue.svg?style=flat&logo=c%2B%2B)
+![Selenium](https://img.shields.io/badge/Selenium-white?style=flat&logo=selenium)
+![Python](https://img.shields.io/badge/-Python-yellow?logo=python&style=flat)
+![Java](https://img.shields.io/badge/Java-blue?logo=java&style=flat)
    <!--
    <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> 
    <img alt="Git" src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white"/> 
@@ -34,8 +37,12 @@ Here are some ideas to get you started:
    <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
    -->
 
-<h2> Worked with: </h2>
-
+#### Worked with:
 ![React Native](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=flat)
+![Jinja](https://img.shields.io/badge/Jinja-B41717?style=flat&logo=jinja)
+![Cucumber](https://img.shields.io/badge/Cucumber-white?style=flat&logo=cucumber)
+![Haskell](https://img.shields.io/badge/-Haskell-5D4F85?logo=haskell&style=flat)
    
-<h2> Learning: </h2>
+#### Learning:
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django)
+![Git](https://img.shields.io/badge/-Git-181717?logo=git&style=flat)
