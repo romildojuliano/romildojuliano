@@ -1,4 +1,5 @@
-![](https://komarev.com/ghpvc/?username=romildojuliano&color=blue)
+![](https://komarev.com/ghpvc/?username=romildojuliano&color=blue)  
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/romildojuliano/)
 
 > #### Proficient on:
 
@@ -49,7 +50,7 @@
 
 > #### Github Info & Social:
 
-![GitHub followers](https://img.shields.io/github/followers/romildojuliano?style=social)    ![GitHub User's stars](https://img.shields.io/github/stars/romildojuliano?style=social)   [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/romildojuliano/)
+![GitHub followers](https://img.shields.io/github/followers/romildojuliano?style=social)    ![GitHub User's stars](https://img.shields.io/github/stars/romildojuliano?style=social)   
 
 
 Hello, my name is Romildo Juliano, I am a 2ys+ on demand tutor and software consultor with experience on various languages and topics.  
