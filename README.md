@@ -27,6 +27,7 @@
 ![R](https://img.shields.io/badge/-R-276DC3?logo=R&style=flat)
 ![SciPy](https://img.shields.io/badge/-SciPy-8AFAFF?logo=scipy&style=flat)
 ![PyTest](https://img.shields.io/badge/-Pytest-40bef7?logo=pytest&style=flat)
+![Shell Script](https://img.shields.io/badge/-Shell-black?logo=linux&style=flat)
 
 > #### Learning:
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django)
