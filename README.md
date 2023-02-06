@@ -95,8 +95,6 @@ Stocks distribution        | Model estimation plot
 ![](https://github.com/romildojuliano/romildojuliano/blob/main/portfolio/shiny-1.png)
 ![](https://github.com/romildojuliano/romildojuliano/blob/main/portfolio/shiny-2.png)
 -->
-- Building a system for a friend of mine using Streamlit (STILL IN PROGRESS )
-![image](https://user-images.githubusercontent.com/33132257/214430277-dbdf8811-c936-4885-bb8b-f8ee3386ee69.png)
 
 - Solved a very tricky CSP problem for a client using PyCSP3:
 
