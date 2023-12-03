@@ -56,50 +56,5 @@
 
 
 Hello, my name is Romildo Juliano, I am a 2ys+ on demand tutor and software consultor with experience on various languages and topics.  
-Some recent jobs I documented are: 
-
-- Developed some implementations from papers for a master's degree client using AmplPy and AMPL with Gurobi for optimization.  
-<br>Article 1: https://repositorio.ufsc.br/handle/123456789/89496
-
-<!--
-<div class="row">
-  <div class="column">
-    <img src="https://user-images.githubusercontent.com/33132257/214433369-09a6c19a-7702-4fd5-8cbd-2f69f3e38e25.png" width="480>
-  </div>
-</div>
--->
-                                                                                                                            
-&emsp;&emsp;Article 2: https://www.researchgate.net/publication/355574568_Modelo_para_sequenciamento_de_tarefas_em_maquinas_paralelas_heterogeneas_de_injecao_plastica_com_prazo_de_entrega
-
-Article 1                  | Article 2  
-:-------------------------:|:-------------------------:
-![](https://user-images.githubusercontent.com/33132257/214433711-5e276327-7439-456e-879a-264470dd794d.png)  |  ![](https://user-images.githubusercontent.com/33132257/214433369-09a6c19a-7702-4fd5-8cbd-2f69f3e38e25.png)
-
-<!--
-<div class="row">
-  <div class="column">
-    <img src="https://user-images.githubusercontent.com/33132257/214433711-5e276327-7439-456e-879a-264470dd794d.png" width=480>
-  </div>
-  <div class="column">
-    <img src="https://user-images.githubusercontent.com/33132257/214433369-09a6c19a-7702-4fd5-8cbd-2f69f3e38e25.png" width=480>
-  </div>
-</div>                                                                                                                            
--->
-- Fixed a market application developed with R, Shiny, HighCharts and some other graphical tools 
-
-Stocks distribution        | Model estimation plot  
-:-------------------------:|:-------------------------:
-![](https://github.com/romildojuliano/romildojuliano/blob/main/portfolio/shiny-1.png)  |  ![](https://github.com/romildojuliano/romildojuliano/blob/main/portfolio/shiny-2.png)
-
-<!--
-![](https://github.com/romildojuliano/romildojuliano/blob/main/portfolio/shiny-1.png)
-![](https://github.com/romildojuliano/romildojuliano/blob/main/portfolio/shiny-2.png)
--->
-
-- Solved a very tricky CSP problem for a client using PyCSP3:
-
-CSP Problem                | CSP Solution  
-:-------------------------:|:-------------------------:
-![](https://user-images.githubusercontent.com/33132257/214429607-7c368107-eb54-4831-973f-214d9b72100a.png)  |  ![](https://user-images.githubusercontent.com/33132257/214429829-9d1d44ce-a5a6-4777-9dd5-ba26836153f2.png)
 
 
