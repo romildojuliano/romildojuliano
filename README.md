@@ -55,6 +55,3 @@
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=romildojuliano&layout=compact)](https://github.com/anuraghazra/github-readme-stats)-->
 
 
-Hello, my name is Romildo Juliano, I am a 2ys+ on demand tutor and software consultor with experience on various languages and topics.  
-
-
